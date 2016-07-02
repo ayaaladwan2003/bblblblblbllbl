@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sy",
+				"style	Tag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>Take One</title>\n\n    <!-- Bootstrap Core CSS -->\n    <link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">\n\n    <!-- Custom CSS -->\n    <link href=\"css/agency.css\" rel=\"stylesheet\">\n\n    <!-- Custom Fonts -->\n    <link href=\"font-awesome/css/font-awesome.min.css\" rel=\"stylesheet\" type=\"text/css\">\n    <link href=\"https://fonts.googleapis.com/css?family=Montserrat:400,700\" rel=\"stylesheet\" type=\"text/css\">\n    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>\n    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>\n    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>\n\n    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n        <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n        <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n\n</head>\n\n<body id=\"page-top\" class=\"index\">\n\n    <!-- Navigation -->\n    <nav class=\"navbar navbar-default navbar-fixed-top\">\n        <div class=\"container\">\n            <!-- Brand and toggle get grouped for better mobile display -->\n            <div class=\"navbar-header page-scroll\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n            </div>\n\n            <!-- Collect the nav links, forms, and other content for toggling -->\n            <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n                <ul class=\"nav navbar-nav navbar-right\">\n                    <li class=\"hidden\">\n                        <a href=\"#page-top\"></a>\n                    </li>\n                    <li>\n                        <a class=\"page-scroll\" href=\"#portfolio\">Family</a>\n                    </li>\n                    <li>\n                        <a class=\"page-scroll\" href=\"#about\">Horror</a>\n                    </li>\n                    \n                    <li>\n                        <a class=\"page-scroll\" href=\"#team\">Action</a>\n                    </li>\n                    <li>\n                        <a class=\"page-scroll\" href=\"#team\">Drama</a>\n                    </li>\n                    <li>\n                        <a class=\"page-scroll\" href=\"#team\">Sci-Fi</a>\n                    </li>\n                </ul>\n            </div>\n            <!-- /.navbar-collapse -->\n        </div>\n        <!-- /.container-fluid -->\n    </nav>\n\n    <!-- Header -->\n    <header>\n        <div class=\"container\">\n            <div class=\"intro-text\">\n                <div class=\"intro-lead-in\">Take one</div>\n                <div class=\"intro-heading\">Be Part of the Movie</div>\n                <a href=\"#services\" class=\"page-scroll btn btn-xl\">Tell Me More</a>\n            </div>\n        </div>\n    </header>\n\n    <!-- Services Section -->\n    <section id=\"services\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12 text-center\">\n                    <h2 class=\"section-heading\">About</h2>\n                    <h3 class=\"section-subheading text-muted\"> Watch HD movies for free</h3>\n                </div>\n            </div>\n            <div class=\"row text-center\">\n                <div class=\"col-md-4\">\n                    <span class=\"fa-stack fa-4x\">\n                        <i class=\"fa fa-circle fa-stack-2x text-primary\"></i>\n                        <i class=\"fa fa-check fa-stack-1x fa-inverse\"></i>\n                    </span>\n                    <h4 class=\"service-heading\">Free</h4>\n                                    </div>\n                <div class=\"col-md-4\">\n                    <span class=\"fa-stack fa-4x\">\n                        <i class=\"fa fa-circle fa-stack-2x text-primary\"></i>\n                        <i class=\"fa fa-check fa-stack-1x fa-inverse\"></i>\n                    </span>\n                    <h4 class=\"service-heading\">Safe</h4>\n                </div>\n                 <div class=\"col-md-4\">\n                    <span class=\"fa-stack fa-4x\">\n                        <i class=\"fa fa-circle fa-stack-2x text-primary\"></i>\n                        <i class=\"fa fa-check fa-stack-1x fa-inverse\"></i>\n                    </span>\n                    <h4 class=\"service-heading\">Enjoyable</h4>\n                </div>\n         </section>\n\n    <!-- Portfolio Grid Section -->\n    <section id=\"portfolio\" class=\"bg-light-gray\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12 text-center\">\n                    <h2 class=\"section-heading\">Family</h2>\n                    <h3 class=\"section-subheading text-muted\">The Top Family Movies.</h3>\n                </div>\n            </div>\n            <div class=\"row\">\n                <div class=\"col-md-4 col-sm-6 portfolio-item\">\n                    <a href=\"#portfolioModal1\" class=\"portfolio-link\" data-toggle=\"modal\">\n                        <div class=\"portfolio-hover\">\n                            <div class=\"portfolio-hover-content\">\n                                <i class=\"fa fa-plus fa-3x\"></i>\n                            </div>\n                        </div>\n                       <a href=\"https://www.youtube.com/watch?v=5mkm22yO-bs\"> \n                        <img src=\"http://ia.media-imdb.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_SX640_SY720_.jpg\" class=\"img-responsive\" alt=\"\">\n                    </a>\n                    <div class=\"portfolio-caption\">\n                        <h4>The Jungle Book</h4>\n                 </div>\n            \n                 </div>\n                       <div class=\"col-md-4 col-sm-6 portfolio-item\">\n                    <a href=\"https://www.youtube.com/watch?v=3JNLwlcPBPI\">\n                      <img src=\"http://vignette1.wikia.nocookie.net/disney/images/2/26/Finding_Dory_Poster_05.jpg/revision/latest?cb=20160309200757\" class=\"img-responsive\" alt=\"\">\n                      \n                    </a>\n                    <div class=\"portfolio-caption\">\n                        <h4>Finding Dory</h4>\n                        <p class=\"text-muted\">Get ready for Nemo 2</p>\n                    </div>\n                </div>\n                 \n            </div>\n            \n                 </div>\n                    </a>\n                    <div class=\"portfolio-caption\">\n                       \n               </div>\n         \n                        </div>\n                        <div class=\"col-md-4 col-sm-6 portfolio-item\">\n                    <a href=https://www.youtube.com/watch?v=Wfql_DoHRKc> \n                      <img src=\"http://ia.media-imdb.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_UY1200_CR90,0,630,1200_AL_.jpg\" class=\"img-responsive\" alt=\"\">\n                      \n                    </a>\n\n                    <div class=\"portfolio-caption\">\n                        \n                         <h4>Minions</h4>\n\n                \n                    </div>\n                </div>\n                 <div class=\"col-md-4 col-sm-6 portfolio-item\">\n\n                    <a href=https://www.youtube.com/watch?v=O-RgquKVTPE> \n\n                      <img src=\"http://vignette2.wikia.nocookie.net/pixar/images/7/73/The_Good_Dinosaur_Promo_Art_03.jpg/revision/latest?cb=20150908153903\" class=\"img-responsive\" alt=\"\">\n                    <div class=\"portfolio-caption\">\n                        <h4>The Good Dinasour</h4>\n                        <p class=\"text-muted\"></p>\n                    </div>\n                </div>\n             \n        </div>\n    </section>\n\n    <!-- About Section -->\n    <section id=\"about\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12 text-center\">\n                    <h2 class=\"section-heading\"> Horror</h2>\n                    <h3 class=\"section-subheading text-muted\">Can you survive</h3>\n                </div>\n            </div>\n            <div class=\"row\">\n                <div class=\"col-lg-12\">\n                    <ul class=\"timeline\">\n                        <li>\n                            <div class=\"timeline-image\">\n                                <img class=\"img-circle img-responsive\" src=\"https://upload.wikimedia.org/wikipedia/en/9/9b/Annabelle-poster.jpg\" alt=\"\">\n                            </div>\n                            <div class=\"timeline-panel\">\n                                <div class=\"timeline-heading\">\n                                    <h4>😈</h4>\n                                    <h4 class=\"subheading\">Annabele</h4>\n                                </div>\n                                <div class=\"timeline-body\">\n                                    <p class=\"text-muted\"> </p>    \n                                </div>\n                            </div>\n                        </li>\n                        <li class=\"timeline-inverted\">\n                            <div class=\"timeline-image\">\n                                <img class=\"img-circle img-responsive\" src=\"http://www.heyuguys.com/images/2012/10/Sinister-UK-Poster.jpg\" alt=\"\">\n                            </div>\n                            <div class=\"timeline-panel\">\n                                <div class=\"timeline-heading\">\n                                   <h4 class=\"subheading\">Sinister</h4>\n                                </div>\n                                <div class=\"timeline-body\">\n                                    <p class=\"text-muted\"></p>\n                                </div>\n                            </div>\n                        </li>\n                        <li>\n                            <div class=\"timeline-image\">\n                                <img class=\"img-circle img-responsive\" src=\"http://wallpapercave.com/wp/uQtT3uA.jpg\" alt=\"\">\n                            </div>\n                            <div class=\"timeline-panel\">\n                                <div class=\"timeline-heading\">\n                                    \n                                    <h4 class=\"subheading\">Scream</h4>\n                                </div>\n                                <div class=\"timeline-body\">\n                                    <p class=\"text-muted\"></p>\n                                </div>\n                            </div>\n                        </li>\n                        <li class=\"timeline-inverted\">\n                            <div class=\"timeline-image\">\n                                <img class=\"img-circle img-responsive\" src=\"http://images-cdn.moviepilot.com/images/c_fill,h_384,w_534/t_mp_quality/screenshot-2014-10-16-at-13-36-31-new-saw-movie-confirmed-we-need-your-sick-ideas-png-153554/new-saw-movie-confirmed-we-need-your-sick-ideas-153554.jpg\" alt=\"\">\n                            </div>\n                            <div class=\"timeline-panel\">\n                                <div class=\"timeline-heading\">\n                                   \n                                    <h4 class=\"subheading\">Saw</h4>\n                                </div>\n                                <div class=\"timeline-body\">\n                                    <p class=\"text-muted\"></p>\n                                </div>\n                            </div>\n                        </li>\n                        <li class=\"timeline-inverted\">\n                            <div class=\"timeline-image\">\n                                <h4>Be Part\n                                    <br>Of Our\n                                    <br>Story!</h4>\n                            </div>\n                        </li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    <!-- Team Section -->\n    <section id=\"team\" class=\"bg-light-gray\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12 text-center\">\n                    <h2 class=\"section-heading\">Action, Drama, Sci Fi</h2>\n                    <h3 class=\"section-subheading text-muted\">\n                </div>\n            \n                        \n                </div>\n                <div class=\"col-sm-4\">\n                    <div class=\"team-member\">\n                        <img src=\"http://ia.media-imdb.com/images/M/MV5BMjE0MDI3NTE5NF5BMl5BanBnXkFtZTgwNzI3ODM2NjE@._V1_UY1200_CR90,0,630,1200_AL_.jpg\" class=\"img-responsive img-circle\" alt=\"\">\n                        <h4>Action</h4>\n                        <p class=\"text-muted\"> No Escape</p>\n                    </div>\n                </div>\n                <div class=\"col-sm-4\">\n                    <div class=\"team-member\">\n                        <img src=\"http://imagesmtv-a.akamaihd.net/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2016/01/Pretty-Little-Liars-1452701250.jpeg?quality=0.85&format=jpg&width=480\" class=\"img-responsive img-circle\" alt=\"\">\n                        <h4>Drama</h4>\n                        <p class=\"text-muted\">Pretty Little Liars</p>\n                        \n                    </div>\n            </div>\n             <div class=\"col-sm-4\">\n                    <div class=\"team-member\">\n                        <img src=\"http://designstacks.net/content_images/AdobePhotoshop/ART-D/tutorial468/2.jpg\" class=\"img-responsive img-circle\" alt=\"\">\n                        <h4>Sci Fi</h4>\n                        <p class=\"text-muted\">The X-men</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    <!-- Clients Aside -->\n    <aside class=\"clients\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-3 col-sm-6\">\n                    <a href=\"#\">\n                        <img src=\"img/logos/envato.jpg\" class=\"img-responsive img-centered\" alt=\"\">\n                    </a>\n                </div>\n                <div class=\"col-md-3 col-sm-6\">\n                    <a href=\"#\">\n                        <img src=\"img/logos/designmodo.jpg\" class=\"img-responsive img-centered\" alt=\"\">\n                    </a>\n                </div>\n                <div class=\"col-md-3 col-sm-6\">\n                    <a href=\"#\">\n                        <img src=\"img/logos/themeforest.jpg\" class=\"img-responsive img-centered\" alt=\"\">\n                    </a>\n                </div>\n                <div class=\"col-md-3 col-sm-6\">\n                    <a href=\"#\">\n                        <img src=\"img/logos/creative-market.jpg\" class=\"img-responsive img-centered\" alt=\"\">\n                    </a>\n                </div>\n            </div>\n        </div>\n    </aside>\n    \n   \n\n    <!-- Portfolio Modals -->\n    <!-- Use the modals below to showcase details about your portfolio projects! -->\n\n    <!-- Portfolio Modal 1 -->\n    <div class=\"portfolio-modal modal fade\" id=\"portfolioModal1\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n        <div class=\"modal-content\">\n            <div class=\"close-modal\" data-dismiss=\"modal\">\n                <div class=\"lr\">\n                    <div class=\"rl\">\n                    </div>\n                </div>\n            </div>\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-lg-8 col-lg-offset-2\">\n                        <div class=\"modal-body\">\n                            <!-- Project Details Go Here -->\n                            <h2>Project Name</h2>\n                            <p class=\"item-intro text-muted\">Lorem ipsum dolor sit amet consectetur.</p>\n                            <img class=\"img-responsive img-centered\" src=\"img/portfolio/roundicons-free.png\" alt=\"\">\n                            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>\n                            <p>\n                                <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href=\"https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc\">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href=\"https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc\">here</a>.</p>\n                            <ul class=\"list-inline\">\n                                <li>Date: July 2014</li>\n                                <li>Client: Round Icons</li>\n                                <li>Category: Graphic Design</li>\n                            </ul>\n                            <button type=\"button\" class=\"btn btn-primary\" data-dismiss=\"modal\"><i class=\"fa fa-times\"></i> Close Project</button>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <!-- Portfolio Modal 2 -->\n    <div class=\"portfolio-modal modal fade\" id=\"portfolioModal2\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n        <div class=\"modal-content\">\n            <div class=\"close-modal\" data-dismiss=\"modal\">\n                <div class=\"lr\">\n                    <div class=\"rl\">\n                    </div>\n                </div>\n            </div>\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-lg-8 col-lg-offset-2\">\n                        <div class=\"modal-body\">\n                            <h2>Project Heading</h2>\n                            <p class=\"item-intro text-muted\">Lorem ipsum dolor sit amet consectetur.</p>\n                            <img class=\"img-responsive img-centered\" src=\"img/portfolio/startup-framework-preview.png\" alt=\"\">\n                            <p><a href=\"http://designmodo.com/startup/?u=787\">Startup Framework</a> is a website builder for professionals. Startup Framework contains components and complex blocks (PSD+HTML Bootstrap themes and templates) which can easily be integrated into almost any design. All of these components are made in the same style, and can easily be integrated into projects, allowing you to create hundreds of solutions for your future projects.</p>\n                            <p>You can preview Startup Framework <a href=\"http://designmodo.com/startup/?u=787\">here</a>.</p>\n                            <button type=\"button\" class=\"btn btn-primary\" data-dismiss=\"modal\"><i class=\"fa fa-times\"></i> Close Project</button>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <!-- Portfolio Modal 3 -->\n    <div class=\"portfolio-modal modal fade\" id=\"portfolioModal3\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n        <div class=\"modal-content\">\n            <div class=\"close-modal\" data-dismiss=\"modal\">\n                <div class=\"lr\">\n                    <div class=\"rl\">\n                    </div>\n                </div>\n            </div>\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-lg-8 col-lg-offset-2\">\n                        <div class=\"modal-body\">\n                            <!-- Project Details Go Here -->\n                            <h2>Project Name</h2>\n                            <p class=\"item-intro text-muted\">Lorem ipsum dolor sit amet consectetur.</p>\n                            <img class=\"img-responsive img-centered\" src=\"img/portfolio/treehouse-preview.png\" alt=\"\">\n                            <p>Treehouse is a free PSD web template built by <a href=\"https://www.behance.net/MathavanJaya\">Mathavan Jaya</a>. This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects.</p>\n                            <p>You can download the PSD template in this portfolio sample item at <a href=\"http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/\">FreebiesXpress.com</a>.</p>\n                            <button type=\"button\" class=\"btn btn-primary\" data-dismiss=\"modal\"><i class=\"fa fa-times\"></i> Close Project</button>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <!-- Portfolio Modal 4 -->\n    <div class=\"portfolio-modal modal fade\" id=\"portfolioModal4\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n        <div class=\"modal-content\">\n            <div class=\"close-modal\" data-dismiss=\"modal\">\n                <div class=\"lr\">\n                    <div class=\"rl\">\n                    </div>\n                </div>\n            </div>\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-lg-8 col-lg-offset-2\">\n                        <div class=\"modal-body\">\n                            <!-- Project Details Go Here -->\n                            <h2>Project Name</h2>\n                            <p class=\"item-intro text-muted\">Lorem ipsum dolor sit amet consectetur.</p>\n                            <img class=\"img-responsive img-centered\" src=\"img/portfolio/golden-preview.png\" alt=\"\">\n                            <p>Start Bootstrap's Agency theme is based on Golden, a free PSD website template built by <a href=\"https://www.behance.net/MathavanJaya\">Mathavan Jaya</a>. Golden is a modern and clean one page web template that was made exclusively for Best PSD Freebies. This template has a great portfolio, timeline, and meet your team sections that can be easily modified to fit your needs.</p>\n                            <p>You can download the PSD template in this portfolio sample item at <a href=\"http://freebiesxpress.com/gallery/golden-free-one-page-web-template/\">FreebiesXpress.com</a>.</p>\n                            <button type=\"button\" class=\"btn btn-primary\" data-dismiss=\"modal\"><i class=\"fa fa-times\"></i> Close Project</button>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <!-- Portfolio Modal 5 -->\n    <div class=\"portfolio-modal modal fade\" id=\"portfolioModal5\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n        <div class=\"modal-content\">\n            <div class=\"close-modal\" data-dismiss=\"modal\">\n                <div class=\"lr\">\n                    <div class=\"rl\">\n                    </div>\n                </div>\n            </div>\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-lg-8 col-lg-offset-2\">\n                        <div class=\"modal-body\">\n                            <!-- Project Details Go Here -->\n                            <h2>Project Name</h2>\n                            <p class=\"item-intro text-muted\">Lorem ipsum dolor sit amet consectetur.</p>\n                            <img class=\"img-responsive img-centered\" src=\"img/portfolio/escape-preview.png\" alt=\"\">\n                            <p>Escape is a free PSD web template built by <a href=\"https://www.behance.net/MathavanJaya\">Mathavan Jaya</a>. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.</p>\n                            <p>You can download the PSD template in this portfolio sample item at <a href=\"http://freebiesxpress.com/gallery/escape-one-page-psd-web-template/\">FreebiesXpress.com</a>.</p>\n                            <button type=\"button\" class=\"btn btn-primary\" data-dismiss=\"modal\"><i class=\"fa fa-times\"></i> Close Project</button>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <!-- Portfolio Modal 6 -->\n    <div class=\"portfolio-modal modal fade\" id=\"portfolioModal6\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">\n        <div class=\"modal-content\">\n            <div class=\"close-modal\" data-dismiss=\"modal\">\n                <div class=\"lr\">\n                    <div class=\"rl\">\n                    </div>\n                </div>\n            </div>\n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-lg-8 col-lg-offset-2\">\n                        <div class=\"modal-body\">\n                            <!-- Project Details Go Here -->\n                            <h2>Project Name</h2>\n                            <p class=\"item-intro text-muted\">Lorem ipsum dolor sit amet consectetur.</p>\n                            <img class=\"img-responsive img-centered\" src=\"img/portfolio/dreams-preview.png\" alt=\"\">\n                            <p>Dreams is a free PSD web template built by <a href=\"https://www.behance.net/MathavanJaya\">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>\n                            <p>You can download the PSD template in this portfolio sample item at <a href=\"http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/\">FreebiesXpress.com</a>.</p>\n                            <button type=\"button\" class=\"btn btn-primary\" data-dismiss=\"modal\"><i class=\"fa fa-times\"></i> Close Project</button>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <!-- jQuery -->\n    <script src=\"js/jquery.js\"></script>\n\n    <!-- Bootstrap Core JavaScript -->\n    <script src=\"js/bootstrap.min.js\"></script>\n\n    <!-- Plugin JavaScript -->\n    <script src=\"http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js\"></script>\n    <script src=\"js/classie.js\"></script>\n    <script src=\"js/cbpAnimatedHeader.js\"></script>\n\n    <!-- Contact Form JavaScript -->\n    <script src=\"js/jqBootstrapValidation.js\"></script>\n    <script src=\"js/contact_me.js\"></script>\n\n    <!-- Custom Theme JavaScript -->\n    <script src=\"js/agency.js\"></script>\n\n</body>\n\n</html>\n",
+			"file": "/C/Users/User/Desktop/Aya Website/index.html",
+			"file_size": 26741,
+			"file_write_time": 131076952919378179,
+			"settings":
+			{
+				"buffer_size": 26734,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/test/blblbblblb/app/views/pages/Aya Website",
+		"/C/test/blblbblblb/config/routes.rb",
+		"/C/Users/User/Desktop/Aya Website/index.html",
+		"/C/Users/User/Desktop/startbootstrap-shop-homepage-1.0.4/index.html",
+		"/C/Users/User/Desktop/startbootstrap-landing-page-1.0.5 (2)/startbootstrap-landing-page-1.0.5/index.html",
+		"/C/Users/User/Desktop/startbootstrap-grayscale-1.0.6/index.html",
+		"/C/Users/User/Desktop/Coding/Page 2.html",
+		"/C/Users/User/Desktop/Coding/Index.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"startup-framework",
+			"porfo",
+			"porfolio",
+			"porfolio-ite",
+			"porfolio",
+			"google website and fonts",
+			"goog"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/User/Desktop/Aya Website/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2852,
+								2213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2282.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Aya Website.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
