@@ -23,11 +23,40 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
    
    <style>
-body {background-image:"https://johnbrawley.files.wordpress.com/2013/12/r374_20130612_225712.jpg";}
+
 </style>       
 
 </head>
-<body>
+
+<body style="background: url(https://johnbrawley.files.wordpress.com/2013/12/r374_20130612_225712.jpg) no-repeat center center fixed;">
+  <nav>
+    <div class="nav-wrapper black">
+      <a href="#!" class="brand-logo" style= "background-color: white;" ><img src="http://picfont.com/create_text_00000.php?a=70&b=0&c=Take-cover&d=TAKE%20ONE&f=7&c0=0&c1=0&c2=0&cont=3&o0=255&o1=255&o2=255&op=no&v=1467534411&pg=yes&dst=no&dst_v=45" height="60"></a>
+       
+      <ul class="right hide-on-med-and-down">
+        <li><i class="material-icons ">videocam</i></li>
+        <li>
+          <form>
+        <div class="input-field">
+          <input id="search" type="search" required>
+          <label for="search"><i class="material-icons">search</i></label>
+          <i class="material-icons">close</i>
+        </div>
+      </form>
+
+        </li>
+      </ul>
+    </div>
+  </nav>
+<nav>
+    <div class="nav-wrapper black">
+      <div class="col s12">
+        <a href="home" class="breadcrumb">Home</a>
+        <a href="about" class="breadcrumb">About</a>
+        <a href="contact" class="breadcrumb">Contact Us</a>
+      </div>
+    </div>
+  </nav>
 
 <%= yield %>
 
